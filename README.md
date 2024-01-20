@@ -43,6 +43,9 @@ My e-portfolio :
 <a href="https://github.com/adrianajfry04/SECP1513-TIS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrianajfry04&repo=SECP1513-TIS&theme=midnight-purple" />
 </a>
+<a href="https://github.com/adrianajfry04/SECJ1013-PT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrianajfry04&repo=SECJ1013-PT&theme=midnight-purple" />
+</a>
 
 ### Skills
 
