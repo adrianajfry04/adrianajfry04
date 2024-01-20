@@ -10,6 +10,20 @@ I am a Data Engineering student from Universiti Teknologi Malaysia (UTM)
 - have a handful of music experiences
 - really interested in IT field
 
+  ⛲My Education and Achievement :
+  1. University Technology of Malaysia (2023 - present)
+  2. Mara College, Kuala Nerang (2022 - 2023)
+         CGPA : 3.92
+  4. MRSM Felda Trolak (2017 - 2021)
+         SPM : 6As
+         PT3 : 7As
+  6. SRAI Taman Keramat (2012 - 2016)
+         UPSR : 5As
+
+🫖Co-curiculum and Award :
+• BRONZE AWARD, Matriculation Social Science Carnival (MASOC), KMKN, September 2022
+• CERTIFICATE OF PARTICIPATION, Townhall Mahasiswa & Anak Muda Padang Terap, SK Kuala Nerang, October 2022
+• SILVER AWARD, Innovation Festival (INNOFEST), KMKN, February 2023
 
 🫧How to reach me ;
 * 🌍  I'm based in Skudai, Johor Bahru, Malaysia
