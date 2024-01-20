@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nurul Adriana Binti Kamal Jefri
 =======================================================================================================================================================
-I am a Data Engineering student from Universiti Teknologi Malaysia (UTM)
+I am a Data Engineering student from Universiti Teknologi Malaysia (UTM) </br>
 My e-portfolio :
 
 
@@ -40,7 +40,7 @@ My e-portfolio :
 
 🫧Courses ;
 ------------------------------------------------------------------------
-[![Readme Card](https://github-SECP1513-TIS.vercel.app/api/pin/?username=adrianajfry04&repo==SECP1513-TIS)](https://github.com/adrianajfry04/github-SECP1513_TIS)
+[![Readme Card](https://SECP1513-TIS.vercel.app/api/pin/?username=adrianajfry04&repo==SECP1513-TIS)](https://github.com/adrianajfry04/SECP1513-TIS)
 
 ### Skills
 
