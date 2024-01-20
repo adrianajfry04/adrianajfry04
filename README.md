@@ -1,40 +1,48 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nurul Adriana Binti Kamal Jefri
 =======================================================================================================================================================
-
 I am a Data Engineering student from Universiti Teknologi Malaysia (UTM)
-------------------------------------------------------------------------
 
-🏹Fun facts about me : 
+
+🏹Fun facts about me :
+------------------------------------------------------------------------
 - a member of Gamelan Club, KTDI 
 - a first and full year student at UTM
 - have a handful of music experiences
 - really interested in IT field
 
-  ⛲My Education and Achievement :
-  1. University Technology of Malaysia (2023 - present)
-  2. Mara College, Kuala Nerang (2022 - 2023)
-         CGPA : 3.92
-  4. MRSM Felda Trolak (2017 - 2021)
-         SPM : 6As
-         PT3 : 7As
-  6. SRAI Taman Keramat (2012 - 2016)
+
+⛲My Education and Achievement :
+------------------------------------------------------------------------
+1. University Technology of Malaysia (2023 - present)
+2. Mara College, Kuala Nerang (2022 - 2023)
+   <p> CGPA : 3.92 </p>
+3. MRSM Felda Trolak (2017 - 2021)
+   <p> SPM : 6As </br>
+      PT3 : 7As </p>
+4. SRAI Taman Keramat (2012 - 2016)
          UPSR : 5As
 
+
 🫖Co-curiculum and Award :
-• BRONZE AWARD, Matriculation Social Science Carnival (MASOC), KMKN, September 2022
-• CERTIFICATE OF PARTICIPATION, Townhall Mahasiswa & Anak Muda Padang Terap, SK Kuala Nerang, October 2022
-• SILVER AWARD, Innovation Festival (INNOFEST), KMKN, February 2023
+------------------------------------------------------------------------
+- BRONZE AWARD, Matriculation Social Science Carnival (MASOC), KMKN, September 2022
+- CERTIFICATE OF PARTICIPATION, Townhall Mahasiswa & Anak Muda Padang Terap, SK Kuala Nerang, October 2022
+- SILVER AWARD, Innovation Festival (INNOFEST), KMKN, February 2023
+
 
 🫧How to reach me ;
+------------------------------------------------------------------------
 * 🌍  I'm based in Skudai, Johor Bahru, Malaysia
 * ✉️  You can contact me at [ADRIANA.KJEFRI@GMAIL.COM](mailto:ADRIANA.KJEFRI@GMAIL.COM)
 * ⚡  hot people listen to DPR!
+
 
 ### Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
+
 
 ### Socials
 
