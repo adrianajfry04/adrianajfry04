@@ -40,9 +40,7 @@ My e-portfolio :
 
 🫧Courses ;
 ------------------------------------------------------------------------
-<a href="https://github.com/adrianajfry04/SECP1513-TIS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrianajfry04&repo=SECP1513-TIS" />
-</a>
+
 
 ### Skills
 
