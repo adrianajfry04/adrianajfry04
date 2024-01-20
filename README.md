@@ -40,7 +40,9 @@ My e-portfolio :
 
 🫧Courses ;
 ------------------------------------------------------------------------
-[![Readme Card](https://SECP1513-TIS.vercel.app/api/pin/?username=adrianajfry04&repo==SECP1513-TIS)](https://github.com/adrianajfry04/SECP1513-TIS)
+<a href="https://github.com/adrianajfry04/SECP1513-TIS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrianajfry04&repo=SECP1513-TIS" />
+</a>
 
 ### Skills
 
@@ -59,6 +61,8 @@ My e-portfolio :
 <a href="http://www.github.com/adrianajfry04"><img src="https://github-readme-stats.vercel.app/api?username=adrianajfry04&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="adrianajfry04's GitHub stats" /></a>
 
 <a href="https://github.com/adrianajfry04" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianajfry04&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+![github profile section](https://github.com/adrianajfry04/e-portfolio/assets/150121149/1e5472e6-0725-4c82-be04-46d6bc91f641)
 
 <!---
 adrianajfry04/adrianajfry04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
