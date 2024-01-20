@@ -1,6 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nurul Adriana Binti Kamal Jefri
 =======================================================================================================================================================
 I am a Data Engineering student from Universiti Teknologi Malaysia (UTM)
+My e-portfolio :
 
 
 🏹Fun facts about me :
@@ -15,12 +16,13 @@ I am a Data Engineering student from Universiti Teknologi Malaysia (UTM)
 ------------------------------------------------------------------------
 1. University Technology of Malaysia (2023 - present)
 2. Mara College, Kuala Nerang (2022 - 2023)
-   <p> CGPA : 3.92 </p>
+   <p> CGPA : 3.92 </br>
+      MUET : 4.0 </p>
 3. MRSM Felda Trolak (2017 - 2021)
    <p> SPM : 6As </br>
       PT3 : 7As </p>
 4. SRAI Taman Keramat (2012 - 2016)
-         UPSR : 5As
+   <p> UPSR : 5As </p>
 
 
 🫖Co-curiculum and Award :
@@ -36,6 +38,9 @@ I am a Data Engineering student from Universiti Teknologi Malaysia (UTM)
 * ✉️  You can contact me at [ADRIANA.KJEFRI@GMAIL.COM](mailto:ADRIANA.KJEFRI@GMAIL.COM)
 * ⚡  hot people listen to DPR!
 
+🫧Courses ;
+------------------------------------------------------------------------
+[![Readme Card](https://github-SECP1513-TIS.vercel.app/api/pin/?username=adrianajfry04&repo==SECP1513-TIS)](https://github.com/adrianajfry04/github-SECP1513_TIS)
 
 ### Skills
 
