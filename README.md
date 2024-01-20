@@ -38,9 +38,11 @@ My e-portfolio :
 * ✉️  You can contact me at [ADRIANA.KJEFRI@GMAIL.COM](mailto:ADRIANA.KJEFRI@GMAIL.COM)
 * ⚡  hot people listen to DPR!
 
-🫧Courses ;
+🩰Courses ;
 ------------------------------------------------------------------------
-
+<a href="https://github.com/adrianajfry04/SECP1513-TIS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adrianajfry04&repo=SECP1513-TIS&theme=midnight-purple" />
+</a>
 
 ### Skills
 
