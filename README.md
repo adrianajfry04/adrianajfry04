@@ -5,8 +5,7 @@ Check out my e-portfolio : [website](https://adrianajfry04.github.io/)
 
 🏹Fun facts about me :
 ------------------------------------------------------------------------
-- a member of Gamelan Club, KTDI 
-- a first and full year student at UTM
+- a full year student at UTM
 - have a handful of music experiences
 - really interested in IT field
 
